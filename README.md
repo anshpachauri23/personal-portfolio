@@ -127,7 +127,7 @@ AWS (Lambda, S3, RDS, DynamoDB, Bedrock), PostgreSQL, MySQL, Git/GitHub, Jupyter
 - **Email**: anshpachauri2005@gmail.com
 - **LinkedIn**: [www.linkedIn.com/in/ansh-pachauri](https://www.linkedin.com/in/ansh-pachauri)
 - **GitHub**: [https://github.com/anshpachauri23](https://github.com/anshpachauri23)
-- **Portfolio**: [Live Portfolio Link]
+- **Portfolio**: [PortfolioLink] (https://personal-portfolio-git-main-ansh-pachauris-projects-03cf1cfb.vercel.app/)
 
 ---
 
