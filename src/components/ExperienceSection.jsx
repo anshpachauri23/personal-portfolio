@@ -8,11 +8,6 @@ const experiences = [
     location: "Tinton Falls, NJ",
     duration: "May 2025 - August 2025",
     description: "Architected and deployed a full-stack AI chatbot solution on AWS to solve real-world user queries, collaborating on backend engineering with Python and AWS Lambda, and integrating Amazon Bedrock for advanced conversational intelligence and natural language understanding.",
-    achievements: [
-      "Developed robust Python scripts to automate cybersecurity analysis tasks",
-      "Integrated APIs (VirusTotal, OTX) for threat intelligence",
-      "Built scalable tools for end-to-end data processing and automation"
-    ],
     technologies: ["Python", "AWS Lambda", "Amazon Bedrock", "AWS", "Cybersecurity", "API Integration"]
   },
   {
@@ -22,11 +17,6 @@ const experiences = [
     location: "Remote",
     duration: "June 2021 - September 2021",
     description: "Expedited team document search by 10 hours/month by migrating 100+ reports to a centralized cloud repository, while also reducing client deployment delays by 30% and saving $5K+ annually through diagnosing integration bottlenecks and implementing AWS automation tools.",
-    achievements: [
-      "Migrated 100+ reports to centralized cloud repository",
-      "Reduced client deployment delays by 30%",
-      "Saved $5K+ annually through AWS automation"
-    ],
     technologies: ["AWS", "Cloud Migration", "Automation", "Consulting", "Document Management"]
   },
   {
@@ -36,11 +26,6 @@ const experiences = [
     location: "Remote",
     duration: "April 2021 - May 2021",
     description: "Delivered 4 AI projects (e.g., facial recognition, traffic sign detection) with 90%+ accuracy using Python/CNNs, adopted by 5+ peers. Led 20 peers to complete projects 2 weeks early using Agile task delegation.",
-    achievements: [
-      "Delivered 4 AI projects with 90%+ accuracy",
-      "Led 20 peers to complete projects 2 weeks early",
-      "Projects adopted by 5+ peers"
-    ],
     technologies: ["Python", "CNNs", "Computer Vision", "Agile", "Leadership"]
   }
 ];
@@ -86,20 +71,7 @@ export const ExperienceSection = () => {
                     </div>
                   </div>
 
-                  <p className="text-muted-foreground mb-4">
-                    {experience.description}
-                  </p>
-
-                  <div className="mb-4">
-                    <h4 className="font-semibold mb-2">Key Achievements:</h4>
-                    <ul className="list-disc list-inside space-y-1 text-sm text-muted-foreground">
-                      {experience.achievements.map((achievement, idx) => (
-                        <li key={idx}>{achievement}</li>
-                      ))}
-                    </ul>
-                  </div>
-
-                  <div className="flex flex-wrap gap-2">
+                  <div className="flex flex-wrap gap-2 mb-4">
                     {experience.technologies.map((tech, idx) => (
                       <span
                         key={idx}
@@ -109,6 +81,10 @@ export const ExperienceSection = () => {
                       </span>
                     ))}
                   </div>
+
+                  <p className="text-muted-foreground">
+                    {experience.description}
+                  </p>
                 </div>
               </div>
             </div>
