@@ -125,7 +125,7 @@ AWS (Lambda, S3, RDS, DynamoDB, Bedrock), PostgreSQL, MySQL, Git/GitHub, Jupyter
 ## 📞 Contact
 
 - **Email**: anshpachauri2005@gmail.com
-- **LinkedIn**: www.linkedIn.com/in/ansh-pachauri
+- **LinkedIn**: [www.linkedIn.com/in/ansh-pachauri](https://www.linkedin.com/in/ansh-pachauri)
 - **GitHub**: [https://github.com/anshpachauri23](https://github.com/anshpachauri23)
 - **Portfolio**: [Live Portfolio Link]
 
@@ -145,3 +145,41 @@ AWS (Lambda, S3, RDS, DynamoDB, Bedrock), PostgreSQL, MySQL, Git/GitHub, Jupyter
 - **GPA**: 3.6/4.0
 - **Specialization**: Software Engineering
 - **Relevant Coursework**: Software Engineering, Data Structures & Algorithms, Machine Learning, Distributed Enterprise Computing, Database Systems, Web Development, Operating Systems, Artificial Intelligence, Quantum Computing, Networking, Principles of Programming Languages, Object-Oriented Programming
+
+---
+
+## 🚀 Deployment
+
+### Deploy on Vercel (Recommended)
+
+1. **Go to [vercel.com](https://vercel.com)**
+2. **Sign in with GitHub**
+3. **Click "New Project"**
+4. **Import your `personal-portfolio` repository**
+5. **Click "Deploy"**
+
+Your portfolio will be live at: `https://personal-portfolio-anshpachauri23.vercel.app`
+
+### Local Development
+
+```bash
+# Clone the repository
+git clone https://github.com/anshpachauri23/personal-portfolio.git
+cd personal-portfolio
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+```
+
+### Tech Stack
+- **React 18** - Modern UI library
+- **Vite** - Lightning-fast build tool
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Beautiful icons
+- **Radix UI** - Accessible components
