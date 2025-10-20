@@ -1,23 +1,5 @@
 # Ansh Pachauri - Personal Portfolio
 
-<div align="center">
-  <br />
-  <img src="./banner.png" alt="Ansh Pachauri Portfolio Banner">
-  <br />
-  <div>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  </div>
-  <h3 align="center">Computer Science Student | AI Enthusiast | Full-Stack Developer</h3>
-  <div align="center">
-    <strong>Ohio State University | Software Engineering Specialization</strong>
-  </div>
-  <br />
-</div>
-
 ## 📋 Table of Contents
 
 1. [About Me](#-about-me)
@@ -142,8 +124,8 @@ AWS (Lambda, S3, RDS, DynamoDB, Bedrock), PostgreSQL, MySQL, Git/GitHub, Jupyter
 
 ## 📞 Contact
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: anshpachauri2005@gmail.com
+- **LinkedIn**: www.linkedIn.com/in/ansh-pachauri
 - **GitHub**: [https://github.com/anshpachauri23](https://github.com/anshpachauri23)
 - **Portfolio**: [Live Portfolio Link]
 
@@ -152,9 +134,7 @@ AWS (Lambda, S3, RDS, DynamoDB, Bedrock), PostgreSQL, MySQL, Git/GitHub, Jupyter
 ## 🏆 Research & Publications
 
 **"Fake News Detection using Machine Learning and Natural Language Processing"**
-- Published at 2021 International Conference on Technological Advancements and Innovations (ICTAI)
-- Tashkent, Uzbekistan, 2021, pp. 547-552
-- **22 citations** | DOI: 10.1109/ICTAI153825.2021.9673378
+- Published at 2021 International Conference on Technological Advancements and Innovations (ICTAI) Tashkent, Uzbekistan, 2021, pp. 547-552 **22 citations** | DOI: 10.1109/ICTAI153825.2021.9673378
 
 ---
 
