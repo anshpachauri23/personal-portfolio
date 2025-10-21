@@ -19,6 +19,7 @@ const skills = [
   { name: "Node.js", level: 85, category: "frameworks" },
   { name: "Ruby on Rails", level: 85, category: "frameworks" },
   { name: "Tailwind CSS", level: 90, category: "frameworks" },
+  { name: "Bootstrap", level: 80, category: "frameworks" },
   { name: "TensorFlow", level: 85, category: "frameworks" },
   { name: "OpenCV", level: 80, category: "frameworks" },
   { name: "NumPy", level: 90, category: "frameworks" },
@@ -30,11 +31,15 @@ const skills = [
   { name: "AWS Bedrock", level: 80, category: "cloud" },
   { name: "AWS S3", level: 85, category: "cloud" },
   { name: "AWS RDS", level: 80, category: "cloud" },
+  { name: "AWS EC2", level: 75, category: "cloud" },
   { name: "PostgreSQL", level: 85, category: "cloud" },
   { name: "DynamoDB", level: 80, category: "cloud" },
+  { name: "SQLite3", level: 80, category: "cloud" },
   { name: "Machine Learning", level: 90, category: "cloud" },
   { name: "Git/GitHub", level: 95, category: "cloud" },
   { name: "Jupyter Notebook", level: 85, category: "cloud" },
+  { name: "MATLAB", level: 75, category: "cloud" },
+  { name: "Eclipse", level: 80, category: "cloud" },
 ];
 
 const categories = ["all", "languages", "frameworks", "cloud"];
