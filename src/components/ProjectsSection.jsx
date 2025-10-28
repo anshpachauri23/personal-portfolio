@@ -7,7 +7,7 @@ const projects = [
     description: "Instagram-inspired social media platform for recipes with account management, follow system, real-time notifications, commenting, and advanced search features.",
     image: "/projects/project1.png",
     tags: ["Next.js", "TypeScript", "Go", "PostgreSQL", "AWS S3"],
-    demoUrl: "#",
+    demoUrl: "https://recipe-social-media-personal.vercel.app/feed",
     githubUrl: "https://github.com/anshpachauri23/Portfolio",
   },
   {
